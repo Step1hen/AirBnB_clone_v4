@@ -1,5 +1,17 @@
-# AirBnB Clone - The Console
+# 0x06. AirBnB clone - Web dynamic
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+
+# Requirements
+## General
+1. Allowed editors: vi, vim, emacs
+2. All your files will be interpreted on Chrome (version 57.0)
+3. All your files should end with a new line
+4. A README.md file, at the root of the folder of the project, is mandatory
+5. Your code should be semistandard compliant with the flag --global $: semistandard *.js --global $
+6. All your JavaScript must be in the folder scripts
+7. You must use JQuery version 3.x
+8. You are not allowed to use var
+9. HTML should not reload for each action: DOM manipulation, update values, fetch data…
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -155,9 +167,9 @@ No known bugs at this time.
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Jonah Etuaful - [Github](https://github.com/Jonah2016) / [Linkedin](https://www.linkedin.com/in/jonah-e-93a6a2167)
+Stephen Amponsah - [Github](https://github.com/Step1hen) / [Linkedin](https://www.linkedin.com/in/stephen-amponsah)
 
 Second part of Airbnb: Joann Vuong
 ## License
